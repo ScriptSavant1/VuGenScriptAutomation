@@ -1,0 +1,9 @@
+com\rbs\lre\gitlab\model\GitLabItem.class
+com\rbs\lre\gitlab\service\GitLabService.class
+com\rbs\lre\gitlab\model\Metadata.class
+com\rbs\lre\gitlab\service\LREUploadService.class
+com\rbs\lre\gitlab\service\MetadataService.class
+com\rbs\lre\gitlab\config\Config.class
+com\rbs\lre\gitlab\Main.class
+com\rbs\lre\gitlab\service\ZipService.class
+com\rbs\lre\gitlab\util\LoggerUtil.class
